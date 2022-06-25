@@ -3,4 +3,4 @@
 
 click here to view my work / web site 
 
-https://rdhrd6776.github.io/my_profile_Portfolio_website/
+https://rdhrd6776.github.io/myprofilePortfolio/
